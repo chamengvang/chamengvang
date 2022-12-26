@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chameng Vang</h1>
 <h3 align="center">A passionate Full Stack Software developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamengvang" alt="chamengvang" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/orange-cat-typing-happily-xy8wrku0apvtv3sb.gif"/>
 
 - 📫 How to reach me **Chameng.vang@outlook.com**
 

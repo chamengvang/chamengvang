@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chameng Vang</h1>
-<h3 align="center">A passionate Full Stack Software developer. First Generation Hmong American in my family to graduate from college. Eagle Scout from Troop 100. I like to travel and have been to Japan, South Korea, Canada, and all over the states. Boba Tea lover and likes exploring different dessert shops. </h3>
+<h1 align="center">Hi, Nyob zoo, Hola, Здравствуйте, こんにちは, 안녕하세요, Bonjour, Ciao, 你好, Hello. 👋, I'm Chameng Vang</h1>
+<h3 align="center">A passionate Full Stack Software developer. First Generation Hmong American. Eagle Scout from Troop 100. I like to travel and have been to Japan, South Korea, Canada, and all over the states. Boba Tea lover and likes exploring different dessert shops. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/orange-cat-typing-happily-xy8wrku0apvtv3sb.gif"/>
 

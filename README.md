@@ -8,6 +8,10 @@
 
 - ⚡ Fun fact **I have one orange cat name Cheeto.**
 
+- 🌱 I’m currently learning **adulting and everything fun and Interesting.**
+
+- 💬 Ask me about **anything.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chamengvang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chamengvang" height="30" width="40" /></a>
